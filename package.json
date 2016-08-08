@@ -1,0 +1,36 @@
+{
+  "name": "globant-hsbc-workshop",
+  "version": "1.0.0",
+  "description": "Simple backend API in Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "API",
+    "express.js"
+  ],
+  "author": {
+    "name": "Juan Arribillaga",
+    "email": "juan.arribillaga@globant.com",
+    "url": "https://twitter.com/jfarribillaga"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2"
+  },
+  "devDependencies": {
+    "fs": "0.0.2"
+  }
+}

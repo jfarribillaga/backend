@@ -1,0 +1,24 @@
+{
+  "reasons": [],
+  "extension": {},
+  "locations": [
+    {
+      "locationId": "404362",
+      "name": "Sunderland The Bridges",
+      "address": {
+        "addressLine1": "Unit 49-51The Bridges Shopping Centre Market Squar",
+        "addressLine2": "",
+        "city": "Sunderland",
+        "province": "STS",
+        "postalCode": "SR1 3LE",
+        "countryCode": "GB"
+      },
+      "services": [],
+      "contacts": [],
+      "weeklySchedules": [],
+      "categories": [],
+      "latitude": 54.90831679999998726771082147024571895599365234375,
+      "longitude": -1.3769818000000000335347749569336883723735809326171875
+    }
+  ]
+}

@@ -7,6 +7,4 @@
 2) Install dependencies  `npm install`
 3) Start! `npm start`
 
-`http://localhost:1338/`
-
-
+`http://localhost:1338/locations`

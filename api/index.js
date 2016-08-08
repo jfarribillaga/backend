@@ -28,10 +28,12 @@ router.use('/topics', function getLocations(req, res) {
 
 router.use('/', function getAppointments(req, res){
   res.setHeader('Content-Type', 'application/json');
-  res.send(JSON.stringify({"endpoints":[
-    'appointmentList',
-    'locations',
-    'topics'
+  res.send(JSON.stringify({
+    "host": req.rawHeaders[1],
+    "endpoints":[
+      '/appointmentList',
+      '/locations',
+      '/topics'
   ]}))
 });
 

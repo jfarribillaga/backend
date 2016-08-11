@@ -14,6 +14,5 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.use('/', api);
-// app.use('/locations', api.locationsList());
 
 app.listen(PORT, () => console.log(`App started and listening on port ${PORT}`));

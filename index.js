@@ -1,5 +1,5 @@
 'use strict';
-const PORT = 1338;
+const PORT = 8000;
 
 const cors = require('cors');
 const express = require('express');

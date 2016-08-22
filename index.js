@@ -1,5 +1,5 @@
 'use strict';
-const process.env.PORT || 1338;
+const PORT = process.env.PORT || 1338;
 
 const cors = require('cors');
 const express = require('express');

@@ -12,8 +12,27 @@
         "appointmentIdentifier": {
           "appointmentIdentifier": "GR8KQ0G9"
         },
+        "locations":[
+  {
+  "locationId":"404362",
+  "name":"Sunderland The Bridges",
+  "address":{
+    "addressLine1":"Unit 49-51The Bridges Shopping Centre Market Squar",
+    "addressLine2":"",
+    "city":"Sunderland",
+    "province":"STS",
+    "postalCode":"SR1 3LE",
+    "countryCode":"GB"}
+    ,
+    "services":[],
+    "contacts":[],
+    "weeklySchedules":[],
+    "categories":[],
+    "latitude":54.90831679999998726771082147024571895599365234375,
+    "longitude":-1.3769818000000000335347749569336883723735809326171875}],
         "topicCategoryId": "protection_underwriting",
         "topicId": "underwriting",
+        "topic_name": "New Account",
         "mode": "1",
         "locationId": "404362",
         "employeeId": "43358966",
@@ -71,8 +90,27 @@
         "appointmentIdentifier": {
           "appointmentIdentifier": "STUB9BTH"
         },
+        "locations":[
+  {
+  "locationId":"404362",
+  "name":"Sunderland The Bridges",
+  "address":{
+    "addressLine1":"Unit 49-51The Bridges Shopping Centre Market Squar",
+    "addressLine2":"",
+    "city":"Sunderland",
+    "province":"STS",
+    "postalCode":"SR1 3LE",
+    "countryCode":"GB"}
+    ,
+    "services":[],
+    "contacts":[],
+    "weeklySchedules":[],
+    "categories":[],
+    "latitude":54.90831679999998726771082147024571895599365234375,
+    "longitude":-1.3769818000000000335347749569336883723735809326171875}],
         "topicCategoryId": "access_my_safe_keeping",
         "topicId": "account_maintenance_review",
+        "topic_name": "Apply for a Loan",
         "mode": "0",
         "locationId": "404362",
         "employeeId": "43358966",
@@ -130,8 +168,27 @@
         "appointmentIdentifier": {
           "appointmentIdentifier": "GR8KQ0G9"
         },
+        "locations":[
+  {
+  "locationId":"404362",
+  "name":"Sunderland The Bridges",
+  "address":{
+    "addressLine1":"Unit 49-51The Bridges Shopping Centre Market Squar",
+    "addressLine2":"",
+    "city":"Sunderland",
+    "province":"STS",
+    "postalCode":"SR1 3LE",
+    "countryCode":"GB"}
+    ,
+    "services":[],
+    "contacts":[],
+    "weeklySchedules":[],
+    "categories":[],
+    "latitude":54.90831679999998726771082147024571895599365234375,
+    "longitude":-1.3769818000000000335347749569336883723735809326171875}],
         "topicCategoryId": "protection_underwriting",
         "topicId": "underwriting",
+        "topic_name": "Personal Lending",
         "mode": "1",
         "locationId": "404362",
         "employeeId": "43358966",
@@ -193,6 +250,7 @@
         },
         "topicCategoryId": "protection_underwriting",
         "topicId": "underwriting",
+        "topic_name": "Apply for a Loan",
         "mode": "1",
         "locationId": "404362",
         "employeeId": "43358966",

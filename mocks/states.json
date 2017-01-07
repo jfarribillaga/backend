@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Pending",
+		"color": "#CCCCCC"
+	},
+	{
+		"id": 2,
+		"name": "Running",
+		"color": "#5e9cd3"
+	},
+	{
+		"id": 3,
+		"name": "Rejected",
+		"color": "#BE0712"
+	},
+	{
+		"id": 4,
+		"name": "Complete",
+		"color": "#548039"
+	}
+]

@@ -18,5 +18,10 @@
 		"id": 4,
 		"name": "Complete",
 		"color": "#548039"
+	},
+	{
+		"id": 5,
+		"name": "Accepted",
+		"color": "#548039"
 	}
 ]

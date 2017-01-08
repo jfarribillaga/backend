@@ -22,7 +22,7 @@
 		"state": 2,
 		"values": {
 			"metrics": 25,
-			"build": 0,
+			"build":68,
 			"unit": 0,
 			"functional": 0
 		}
@@ -36,7 +36,7 @@
 		"state": 3,
 		"values": {
 			"metrics": 100,
-			"build": 0,
+			"build": 100,
 			"unit": 100,
 			"functional": 80
 		}
@@ -50,8 +50,8 @@
 		"state": 4,
 		"values": {
 			"metrics": 50,
-			"build": 0,
-			"unit": 0,
+			"build": 30,
+			"unit": 20,
 			"functional": 10
 		}
 	}

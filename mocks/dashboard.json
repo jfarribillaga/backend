@@ -5,7 +5,13 @@
 		"type": 1,
 		"owner": "",
 		"ts": "1483823417477",
-		"state": 1
+		"state": 1,
+		"values": {
+			"metrics": 0,
+			"build": 0,
+			"unit": 0,
+			"functional": 0
+		}
 	},
 	{
 		"id": 2,
@@ -13,7 +19,13 @@
 		"type": 2,
 		"owner": "jtuck",
 		"ts": "1083823928586",
-		"state": 2
+		"state": 2,
+		"values": {
+			"metrics": 25,
+			"build": 0,
+			"unit": 0,
+			"functional": 0
+		}
 	},
 	{
 		"id": 3,
@@ -21,7 +33,13 @@
 		"type": 2,
 		"owner": "samy",
 		"ts": "1483823981920",
-		"state": 3
+		"state": 3,
+		"values": {
+			"metrics": 25,
+			"build": 0,
+			"unit": 100,
+			"functional": 80
+		}
 	},
 	{
 		"id": 4,
@@ -29,6 +47,12 @@
 		"type": 1,
 		"owner": "",
 		"ts": "1443821417477",
-		"state": 4
+		"state": 4,
+		"values": {
+			"metrics": 25,
+			"build": 0,
+			"unit": 0,
+			"functional": 10
+		}
 	}
 ]

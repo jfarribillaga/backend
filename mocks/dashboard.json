@@ -21,7 +21,7 @@
 		"ts": "1083823928586",
 		"state": 2,
 		"values": {
-			"metrics": 25,
+			"metrics": 33,
 			"build":68,
 			"unit": 0,
 			"functional": 0
@@ -51,8 +51,8 @@
 		"values": {
 			"metrics": 50,
 			"build": 30,
-			"unit": 20,
-			"functional": 10
+			"unit": 31,
+			"functional": 44
 		}
 	},
 	{

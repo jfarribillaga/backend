@@ -7,11 +7,20 @@
 		"ts": "1483823417477",
 		"state": 1,
 		"values": {
-			"metrics": 0,
+			"metrics": {
+				"overall": 0,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build": 0,
 			"unit": 0,
 			"functional": 0
-		}
+		},
+		"opened": false
 	},
 	{
 		"id": 2,
@@ -21,11 +30,20 @@
 		"ts": "1083823928586",
 		"state": 2,
 		"values": {
-			"metrics": 33,
+			"metrics": {
+				"overall": 33,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build":68,
 			"unit": 0,
 			"functional": 0
-		}
+		},
+		"opened": false
 	},
 	{
 		"id": 3,
@@ -35,11 +53,20 @@
 		"ts": "1483823981920",
 		"state": 3,
 		"values": {
-			"metrics": 100,
+			"metrics": {
+				"overall": 100,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build": 100,
 			"unit": 100,
 			"functional": 80
-		}
+		},
+		"opened": false
 	},
 	{
 		"id": 4,
@@ -49,11 +76,20 @@
 		"ts": "1443821417477",
 		"state": 4,
 		"values": {
-			"metrics": 50,
+			"metrics": {
+				"overall": 50,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build": 30,
 			"unit": 31,
 			"functional": 44
-		}
+		},
+		"opened": false
 	},
 	{
 		"id": 5,
@@ -63,11 +99,20 @@
 		"ts": "1483823961920",
 		"state": 3,
 		"values": {
-			"metrics": 100,
+			"metrics": {
+				"overall": 100,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build": 0,
 			"unit": 0,
 			"functional": 0
-		}
+		},
+		"opened": false
 	},
 	{
 		"id": 6,
@@ -77,10 +122,19 @@
 		"ts": "1483822981920",
 		"state": 5,
 		"values": {
-			"metrics": 98,
+			"metrics": {
+				"overall": 98,
+				"specs": {
+					"test": 64,
+					"maintainability": 53,
+					"security": 64,
+					"workmanship": 0
+				}
+			},
 			"build": 100,
 			"unit": 73,
 			"functional": 68
-		}
+		},
+		"opened": false
 	}
 ]

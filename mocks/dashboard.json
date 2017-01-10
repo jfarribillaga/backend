@@ -11,9 +11,9 @@
 				"overall": 0,
 				"specs": {
 					"test": 64,
-					"maintainability": 53,
+					"maintainability": 48,
 					"security": 64,
-					"workmanship": 0
+					"workmanship": 20
 				}
 			},
 			"build": 0,
@@ -33,10 +33,10 @@
 			"metrics": {
 				"overall": 33,
 				"specs": {
-					"test": 64,
-					"maintainability": 53,
-					"security": 64,
-					"workmanship": 0
+					"test": 80,
+					"maintainability": 100,
+					"security": 30,
+					"workmanship": 60
 				}
 			},
 			"build":68,
@@ -56,10 +56,10 @@
 			"metrics": {
 				"overall": 100,
 				"specs": {
-					"test": 64,
-					"maintainability": 53,
+					"test": 90,
+					"maintainability": 60,
 					"security": 64,
-					"workmanship": 0
+					"workmanship": 35
 				}
 			},
 			"build": 100,

@@ -10,15 +10,25 @@
 			"metrics": {
 				"overall": 0,
 				"specs": {
-					"test": 64,
+					"test": 100,
 					"maintainability": 53,
 					"security": 64,
-					"workmanship": 0
+					"workmanship": 30
 				}
 			},
 			"build": 0,
-			"unit": 0,
-			"functional": 0
+			"unit": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	},
@@ -36,12 +46,22 @@
 					"test": 64,
 					"maintainability": 53,
 					"security": 64,
-					"workmanship": 0
+					"workmanship": 30
 				}
 			},
 			"build":68,
-			"unit": 0,
-			"functional": 0
+			"unit": {
+				"passed": 142,
+				"failed": 10,
+				"percent": 73,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	},
@@ -57,14 +77,24 @@
 				"overall": 100,
 				"specs": {
 					"test": 64,
-					"maintainability": 53,
+					"maintainability": 23,
 					"security": 64,
 					"workmanship": 0
 				}
 			},
 			"build": 100,
-			"unit": 100,
-			"functional": 80
+			"unit": {
+				"passed": 142,
+				"failed": 10,
+				"percent": 100,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	},
@@ -86,8 +116,18 @@
 				}
 			},
 			"build": 30,
-			"unit": 31,
-			"functional": 44
+			"unit": {
+				"passed": 142,
+				"failed": 10,
+				"percent": 31,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	},
@@ -109,8 +149,18 @@
 				}
 			},
 			"build": 0,
-			"unit": 0,
-			"functional": 0
+			"unit": {
+				"passed": 142,
+				"failed": 10,
+				"percent": 0,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	},
@@ -132,8 +182,18 @@
 				}
 			},
 			"build": 100,
-			"unit": 73,
-			"functional": 68
+			"unit": {
+				"passed": 142,
+				"failed": 10,
+				"percent": 73,
+				"coverage": 76
+			},
+			"functional": {
+				"passed": 142,
+				"failed": 80,
+				"percent": 73,
+				"coverage": 76
+			}
 		},
 		"opened": false
 	}

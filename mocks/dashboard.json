@@ -79,7 +79,7 @@
 					"test": 64,
 					"maintainability": 23,
 					"security": 64,
-					"workmanship": 0
+					"workmanship": 35
 				}
 			},
 			"build": 100,
